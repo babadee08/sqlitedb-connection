@@ -1,0 +1,4 @@
+.idea/
+out/
+src/sqlite-jdbc-3.8.6.jar
+src/*.class
